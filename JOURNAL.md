@@ -17,7 +17,7 @@
 1. [2026-10-14 – Tried out the designs in the guide, learned how to design a marble track and sweep in onshape. I also made the plinko track, and had a bit of trouble with labelling it as a separate part.](#2026-10-14-tried-out-the-designs-in-the-guide-learned-how-to)
 2. [2026-10-15 – Made the staircase, funnel and marble for the Merbl Run.](#2026-10-15-made-the-staircase-funnel-and-marble-for-the-merb)
 3. [2026-10-15 – Trying to make a  curving cylindrical path for the ball to roll down on.](#2026-10-15-trying-to-make-a-curving-cylindrical-path-for-the)
-4. [2026-10-16 – Tried to make the rolling down thingy.](#2026-10-16-tried-to-make-the-rolling-down-thingy)
+4. [2026-10-16 – Tried (again!) to make the curving cylindrical path.](#2026-10-16-tried-again-to-make-the-curving-cylindrical-path)
 5. [2026-10-18 – Lapsed the entire project over multiple sessions.](#2026-10-18-lapsed-the-entire-project-over-multiple-sessions)
 
 ## Design
@@ -50,11 +50,11 @@ Smth like this-
 
 [Timelapse](https://lookout.hackclub.com/api/media/d88d67eb-a5bd-479e-b530-cb74b0c67980/video.mp4)
 
-### 2026-10-16 – Tried to make the rolling down thingy.
+### 2026-10-16 – Tried (again!) to make the curving cylindrical path.
 
 **0.75h**
 
-Tried to make the rolling down thingy.
+Tried (again!) to make the curving cylindrical path.
 
 [Timelapse](https://lookout.hackclub.com/api/media/6bf5c7c6-6e5c-41eb-a265-9c9cdcc85332/video.mp4)
 
